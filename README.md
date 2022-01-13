@@ -1,1 +1,1 @@
-# Create Neural Network model
+# Create Neural Network model from scratch
